@@ -16,6 +16,7 @@
     },
     "devDependencies": {
         "@types/mdx": "^2.0.13",
+        "@types/next": "^9.0.0",
         "@types/node": "^20.12.7",
         "@types/react": "^18.3.1"
     }
